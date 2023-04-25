@@ -13,6 +13,10 @@
             Antall = antall;
             Pris = pris;
         }
+        public void KalkulerPris()
+        {
+            int totalProduktPris = Pris * Antall;
+        }
 
     }
 }

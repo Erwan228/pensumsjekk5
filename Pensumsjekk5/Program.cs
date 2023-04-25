@@ -4,6 +4,11 @@
     {
         static void Main(string[] args)
         {
+            var blågenser = new ClothingItem("Large", "Blå", "Hettegenser", 3, 56);
+            var elektriskTannbørste = new ElectricItem("1 år", 12, "Elektrisk tannbørste", 3, 200);
+            List<ISellable> sellables = new List<ISellable>();
+            sellables.Add(elektriskTannbørste);
+            sellables.Add(blågenser);
 
         }
     }

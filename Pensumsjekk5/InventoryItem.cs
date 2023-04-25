@@ -1,6 +1,6 @@
 ﻿namespace Pensumsjekk5
 {
-    public class InventoryItem
+    public class InventoryItem : ISellable
     {
         public string Navn { get; set; }
         public int Antall { get; set; }

@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Pensumsjekk5
+﻿namespace Pensumsjekk5
 {
     internal interface ISellable
     {
+        public void KalkulerPris() { }
+
+
     }
 }
