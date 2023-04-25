@@ -1,9 +1,15 @@
 ﻿namespace Pensumsjekk5
 {
-    class InventoryItem
+    public class InventoryItem
     {
-        public string Navn { get; private set; }
-        public int Antall { get; private set; }
-        public int Pris { get; private set; }
+        public string Navn { get; set; }
+        public int Antall { get; set; }
+        public int Pris { get; set; }
+        public InventoryItem(string navn, int antall, int pris)
+        {
+            Navn = navn;
+            Antall = antall;
+            Pris = pris;
+        }
     }
 }
