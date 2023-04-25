@@ -1,0 +1,15 @@
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\bin\Debug\net7.0\Pensumsjekk5.exe
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\bin\Debug\net7.0\Pensumsjekk5.deps.json
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\bin\Debug\net7.0\Pensumsjekk5.runtimeconfig.json
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\bin\Debug\net7.0\Pensumsjekk5.dll
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\bin\Debug\net7.0\Pensumsjekk5.pdb
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\obj\Debug\net7.0\Pensumsjekk5.csproj.AssemblyReference.cache
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\obj\Debug\net7.0\Pensumsjekk5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\obj\Debug\net7.0\Pensumsjekk5.AssemblyInfoInputs.cache
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\obj\Debug\net7.0\Pensumsjekk5.AssemblyInfo.cs
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\obj\Debug\net7.0\Pensumsjekk5.csproj.CoreCompileInputs.cache
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\obj\Debug\net7.0\Pensumsjekk5.dll
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\obj\Debug\net7.0\refint\Pensumsjekk5.dll
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\obj\Debug\net7.0\Pensumsjekk5.pdb
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\obj\Debug\net7.0\Pensumsjekk5.genruntimeconfig.cache
+C:\Users\erwan\Documents\GitHub\pensumsjekk5\Pensumsjekk5\obj\Debug\net7.0\ref\Pensumsjekk5.dll
