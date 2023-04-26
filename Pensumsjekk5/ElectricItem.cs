@@ -1,6 +1,6 @@
 ﻿namespace Pensumsjekk5
 {
-    public class ElectricItem : InventoryItem
+    public class ElectricItem : InventoryItem, ISellable
     {
 
         public string Forsikringsinformasjon { get; private set; }
@@ -13,9 +13,9 @@
             Antall = antall;
             Pris = pris;
         }
-        public void KalkulerPris()
+        public int KalkulerPris()
         {
-            int totalProduktPris = Pris * Antall;
+            return Pris * Antall;
         }
 
     }

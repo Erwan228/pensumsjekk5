@@ -1,6 +1,6 @@
 ﻿namespace Pensumsjekk5
 {
-    public class ClothingItem : InventoryItem
+    public class ClothingItem : InventoryItem, ISellable
     {
         public string Størrelse { get; private set; }
         public string Farge { get; private set; }
@@ -12,10 +12,9 @@
             Antall = antall;
             Pris = pris;
         }
-        public void KalkulerPris()
+        public int KalkulerPris()
         {
-            int totalProduktPris = Pris * Antall;
-            Console.WriteLine($"Pris for dette er {totalProduktPris}.");
+            return Pris * Antall;
         }
     }
 }
